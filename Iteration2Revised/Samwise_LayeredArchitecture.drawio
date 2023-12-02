@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-12-02T15:09:27.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="h2eejiOiZ57IAtxr-_lV" version="22.1.5" type="device">
+  <diagram name="Page-1" id="TTQgoW807nU1l3xpercN">
+    <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-3" value="UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-6" value="HTML" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="60" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-9" value="Domain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-11" value="User" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-12" value="Service" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-13" value="Profile" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="330" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-14" value="Calendar" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-15" value="Payment" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-16" value="Filtering" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-17" value="Review" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="520" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-19" value="Technical Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-20" value="Express.js" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-27" value="MySQL" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qLqCCh5QAelRT3r1JZFa-28" value="Google Calendar" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
